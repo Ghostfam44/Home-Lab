@@ -65,7 +65,7 @@ Specific learning objectives:
 
 ## 📚 Related
 
-- [soc-analyst-notes](link-to-your-other-repo) — running study 
+- [soc-analyst-notes] https://github.com/Ghostfam44/soc-analyst-notes — running study 
   notes that complement this build
 
 ---
